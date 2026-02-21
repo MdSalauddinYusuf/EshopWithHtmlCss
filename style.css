@@ -96,7 +96,7 @@ body {
 /* Image thik korar jonno */
 .product-card img {
     max-width: 100%; 
-    height: 250px; /* Ekhane height barano holo jate watch sundor dekha jay */
+    height: 200px; /* Ekhane height barano holo jate watch sundor dekha jay */
     object-fit: contain; 
     margin-bottom: 15px;
 }
